@@ -1,6 +1,8 @@
 # Casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+El tema estándar de [Ghost](http://github.com/tryghost/ghost/) en español.
+
+The default theme for [Ghost](http://github.com/tryghost/ghost/) **in spanish**
 
 To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
 
